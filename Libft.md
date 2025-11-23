@@ -6,13 +6,13 @@
 <p align="center">A small C library of essential and custom utility functions</p>
 
 📋 **Table of Contents**
-- [📄 Description](#description)
-- [🛠️ Technologies Used](#technologies-used)
-- [📁 Project Structure](#project-structure)
-- [📌 Mandatory Functions](#mandatory-functions)
-- [✨ Bonus Functions](#bonus-functions)
-- [⚙️ How to Compile](#how-to-compile)
-- [🛠 How to Use](#how-to-use)
+- [Description](#description)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Mandatory Functions](#mandatory-functions)
+- [Bonus Functions](#bonus-functions)
+- [How to Compile](#how-to-compile)
+- [How to Use](#how-to-use)
 
 ## 📄 Description
 Libft is a custom C library containing reimplemented standard functions
