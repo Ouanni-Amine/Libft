@@ -6,8 +6,10 @@
 <p align="center">A small C library of essential and custom utility functions</p>
 
 📋 **Table of Contents**
+
 - [📄 Description](#-description)
 - [🛠️ Technologies Used](#%EF%B8%8F-technologies-used)
+- [🔑 Key Concepts](#-key-concepts)
 - [📁 Project Structure](#-project-structure)
 - [📌 Mandatory Functions](#-mandatory-functions)
 - [✨ Bonus Functions](#-bonus-functions)
@@ -15,13 +17,14 @@
 - [🛠 How to Use](#-how-to-use)
 
 ## 📄 Description
+
 Libft is a custom C library containing reimplemented standard functions
 from `<ctype.h>`, `<string.h>`, `<stdlib.h>`, plus additional utilities
 and linked-list tools. It is the first project in the 42 curriculum
 and teaches the fundamentals of memory management, string handling,
 and data manipulation in C.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies used
 
 <p align="center">
   <img src="https://img.icons8.com/color/480/c-programming.png" width="60"/>
@@ -33,6 +36,17 @@ and data manipulation in C.
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" width="60"/>
 </p>
 
+## 🔑 Key concepts
+
+<b>Memory Manipulation</b>
+<b>Memory Management</b>
+<b>Pointer arithmetic</b>
+<b>String Manipulation</b>
+<b>Function Pointers</b>
+<b>File Descriptors</b>
+<b>File Descriptors</b>
+<b>Linked Lists DSA</b>
+<b>Error Handling</b>
 
 ## 📁 Project structure
 ```
