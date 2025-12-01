@@ -38,15 +38,15 @@ and data manipulation in C.
 
 ## 🔑 Key concepts
 
-<b>Memory Manipulation</b>
-<b>Memory Management</b>
-<b>Pointer arithmetic</b>
-<b>String Manipulation</b>
-<b>Function Pointers</b>
-<b>File Descriptors</b>
-<b>File Descriptors</b>
-<b>Linked Lists DSA</b>
-<b>Error Handling</b>
+<b>Memory Manipulation</b><br>
+<b>Memory Management</b><br>
+<b>Pointer arithmetic</b><br>
+<b>String Manipulation</b><br>
+<b>Function Pointers</b><br>
+<b>File Descriptors</b><br>
+<b>File Descriptors</b><br>
+<b>Linked Lists DSA</b><br>
+<b>Error Handling</b><br>
 
 ## 📁 Project structure
 ```
