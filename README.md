@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ouanni-Amine/Assets/main/LIBFT.png" alt="libft logo" width="220">
+  <img src="https://raw.githubusercontent.com/Ouanni-Amine/Assets/main/LIBFT/LIBFT.png" alt="libft logo" width="220">
 </p>
 
 <h1 align="center">Libft</h1>
