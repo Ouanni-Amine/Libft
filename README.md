@@ -44,7 +44,6 @@ and data manipulation in C.
 <b>4.String Manipulation</b><br>
 <b>5.Function Pointers</b><br>
 <b>6.File Descriptors</b><br>
-<b>7.File Descriptors</b><br>
 <b>8.Linked Lists DSA</b><br>
 <b>9.Error Handling</b><br>
 
